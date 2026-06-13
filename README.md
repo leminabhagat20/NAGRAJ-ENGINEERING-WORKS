@@ -19,7 +19,7 @@ A full-stack HR management system for tracking workers, approvals, and user role
 
 | Role | Email | Password |
 |------|-------|----------|
-| Super Admin | admin@nagraj.com | admin123 |
+| Super Admin | a | a123 |
 | CEO | ceo | ceo123 |
 | HR | h | h123 |
 | Production Head | ph | ph123 |
