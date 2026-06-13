@@ -50,18 +50,18 @@ FINAL NAGRAJ ENGINEERING WORKS/
 - Node.js installed
 - MongoDB running locally or Atlas connection string
 
-### Backend Setup
+Backend Setup
 ```bash
 cd backend
 npm install
 npm start
 
-### Frontend Setup
+Frontend Setup
 cd nagraj-hrms
 npm install
 npm start
 
-### Environment Variables
+Environment Variables
 Create .env in nagraj-hrms folder:
 
 text
@@ -71,7 +71,7 @@ For production, set on Netlify:
 text
 REACT_APP_API_URL=https://backend-nagraj.onrender.com
 
-###🌍 Deployment
+🌍 Deployment
 Frontend: Netlify – drag & drop build folder
 
 Backend: Render – connect GitHub repo, set root directory backend
