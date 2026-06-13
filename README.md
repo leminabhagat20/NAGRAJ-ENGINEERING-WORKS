@@ -51,7 +51,6 @@ FINAL NAGRAJ ENGINEERING WORKS/
 - MongoDB running locally or Atlas connection string
 
 Backend Setup
-```bash
 cd backend
 npm install
 npm start
